@@ -1,4 +1,4 @@
-This repository contains a thesis project that focuses on the CAN-bus protocol. The objective of this project is to explore, implement, and analyze the CAN (Controller Area Network) bus protocol, which is widely used in embedded systems for real-time communication.
+This repository contains a thesis project that focuses on the CAN-bus protocol, specifically used for simulating the control and monitoring of a car's Air Conditioning (A/C) system. The simulation includes temperature control, a temperature sensor, and a motor to simulate the air conditioning unit. This project involves using multiple hardware components, including an Arduino, STM32F407 microcontrollers, and CAN transceivers, to create a working prototype.
 
 The CAN bus protocol is a robust and efficient communication standard used in embedded systems, especially in automotive, industrial, and embedded applications. The protocol enables real-time, high-speed data exchange between microcontrollers and other devices in a networked environment.
 
